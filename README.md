@@ -4,7 +4,7 @@
 <h2>Getting Started</h2>
 <p>To get started with the blog, follow these steps:</p>
 <ol>
-      <li>Clone the repository: `git clone https://github.com/your-username/mern_a_to_z_client.git`</li>
+      <li>Clone the repository: `git clone https://github.com/marti-web2/myblog-next.git`</li>
       <li>Navigate to the project directory: `cd mern_a_to_z_client`</li>
       <li>Install the dependencies: `npm install`</li>
       <li>Start the development server: `npm run dev`</li>
