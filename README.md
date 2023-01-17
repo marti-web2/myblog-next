@@ -19,7 +19,7 @@
     <h2>Installing</h2>
     <p>To install the blog, follow these steps:</p>
     <ol>
-      <li>Clone the repository: `git clone https://github.com/your-username/mern_a_to_z_client.git`</li>
+      <li>Clone the repository: `git clone https://github.com/marti-web2/myblog-next.git`</li>
       <li>Navigate to the project directory: `cd mern_a_to_z_client`</li>
       <li>Install the dependencies: `npm install`</li>
     </ol>
