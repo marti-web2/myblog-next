@@ -32,6 +32,7 @@
     <li><a href="https://nextjs.org/docs">Next.js</a></li>
       <li><a href="https://reactjs.org/docs/getting-started.html">React</a></li>
       <li><a href="https://nodejs.org/en/docs/">Node.js</a></li>
+      <li><a href="https://tailwindcss.com/docs/installation">Tailwind CSS</a></li>
     </ul>
     <h2>Authors</h2>
     <ul>
